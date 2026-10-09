@@ -37,8 +37,9 @@ Sample Superstore: 9,994 rows, 21 columns (2014–2017).
 - Plan stock and promotions before the November peak.
 
 ## Screenshots
-![Power BI](screenshots/powerbi.png)
-![Tableau](screenshots/tableau.png)
+![Excel Findings](Screenshot 2026-10-08 232004.png)
+![Power BI](Screenshot 20206-10-08 232725.png)
+![Tableau](Screenshot 2026-10-08 232740.png)
 
 ## Live Dashboard
 [View on Tableau Public](https://public.tableau.com/views/SuperstoreSalesDashboard_17913986756410/SuperstoreDashboard)
